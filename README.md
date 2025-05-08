@@ -1,4 +1,3 @@
-The goal of this coding exam is to quickly get you off the ground with **Conditional Rendering**.
 
 
 ### Refer to the image below:
@@ -29,39 +28,6 @@ The goal of this coding exam is to quickly get you off the ground with **Conditi
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
-- Initially, the user should see the input element and the`Save` button.
-- When the text is provided in the input element and the `Save` button is clicked
-  - The text should be displayed in the paragraph instead of the input element.
-  - The `Edit` button should be displayed.
-- When the text is saved and the `Edit` button is clicked
-  - The input element should be displayed with the value as text content of the HTML paragraph element.
-  - The `Save` button should be displayed.
-
-</details>
-
-
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- Use `styledComponents` for styling the elements
-
-</details>
-
 ### Resources
 
 <details>
@@ -87,8 +53,32 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
+
+# Editable Text Input
+
+## Project Description
+**Editable Text Input** is a simple React project built to practice core React concepts and showcase my frontend development skills. The project features an input field that allows users to enter text and convert it into a paragraph upon pressing the "Save" button. After saving the input, the button text changes to "Edit" for further interaction.
+
+## Goal
+The goal of this simple React project is to demonstrate the use of **Conditional Rendering**.
+
+## Technologies Used
+- **React**
+- **JavaScript**
+- **Conditional Rendering**
+- **Styled-Components**
+- **Class Components**
+
+## Features
+- **Input Field**: Enter any word or sentence.
+- **Save Button**: Converts the input into a paragraph and changes its label to "Edit".
+- **Edit Mode**: Pressing "Edit" will toggle back to the input field for text modification.
+
+## How to Run the Project Locally
+
+### Prerequisites:
+- **Node.js** installed on your machine (can be downloaded from [here](https://nodejs.org/)).
+
+
+
 
