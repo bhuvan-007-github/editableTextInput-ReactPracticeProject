@@ -1,4 +1,36 @@
+# Editable Text Input
 
+## Project Description
+**Editable Text Input** is a simple React project built to practice core React concepts and showcase my frontend development skills. The project features an input field that allows users to enter text and convert it into a paragraph upon pressing the "Save" button. After saving the input, the button text changes to "Edit" for further interaction.
+
+## Goal
+The goal of this simple React project is to demonstrate the use of **Conditional Rendering**.
+
+## Technologies Used
+- **React**
+- **JavaScript**
+- **Conditional Rendering**
+- **Styled-Components**
+- **Class Components**
+
+## Features
+- **Input Field**: Enter any word or sentence.
+- **Save Button**: Converts the input into a paragraph and changes its label to "Edit".
+- **Edit Mode**: Pressing "Edit" will toggle back to the input field for text modification.
+
+## How to Run the Project Locally
+
+### Prerequisites:
+- **Node.js** installed on your machine (can be downloaded from [here](https://nodejs.org/)).
+
+### Set Up Instructions
+
+<details>
+<summary>Click to view</summary>
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+</details>
 
 ### Refer to the image below:
 
@@ -17,15 +49,6 @@
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Editing output](https://assets.ccbp.in/frontend/content/react-js/editable-text-input-lg-editing-output.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Saved text output](https://assets.ccbp.in/frontend/content/react-js/editable-text-input-lg-saved-text-output.png)
 
-</details>
-
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
 </details>
 
 ### Resources
@@ -54,31 +77,7 @@
 </details>
 
 
-# Editable Text Input
-
-## Project Description
-**Editable Text Input** is a simple React project built to practice core React concepts and showcase my frontend development skills. The project features an input field that allows users to enter text and convert it into a paragraph upon pressing the "Save" button. After saving the input, the button text changes to "Edit" for further interaction.
-
-## Goal
-The goal of this simple React project is to demonstrate the use of **Conditional Rendering**.
-
-## Technologies Used
-- **React**
-- **JavaScript**
-- **Conditional Rendering**
-- **Styled-Components**
-- **Class Components**
-
-## Features
-- **Input Field**: Enter any word or sentence.
-- **Save Button**: Converts the input into a paragraph and changes its label to "Edit".
-- **Edit Mode**: Pressing "Edit" will toggle back to the input field for text modification.
-
-## How to Run the Project Locally
-
-### Prerequisites:
-- **Node.js** installed on your machine (can be downloaded from [here](https://nodejs.org/)).
 
 
-
-
+## Author:
+GitHub: [@bhuvan-007-github](https://github.com/bhuvan-007-github)
